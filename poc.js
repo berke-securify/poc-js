@@ -1,1 +1,1 @@
-alert(document.cookie)
+data:,alert(document.cookie)
